@@ -186,6 +186,12 @@ expo start
 - Configure Firebase for push notifications
 - Set up email SMTP settings
 
+![11447](https://github.com/user-attachments/assets/08a45470-8e42-488e-b8fc-6d4dd2c3bbca)
+![11445](https://github.com/user-attachments/assets/d1187384-f350-41e0-90ac-399bdc32f3b2)
+![11442](https://github.com/user-attachments/assets/7f382cd8-0972-4c15-8180-0ef823262fa5)
+![11435](https://github.com/user-attachments/assets/bc542571-2cc9-481d-9a4e-5975caff2777)
+
+
 
 ---
 
